@@ -1,0 +1,8 @@
+pertama git clone dulu dan ke cd hanafuda
+
+pip install -r requirements.txt
+
+nano token.txt (edit token akses, liat google cara buka token akses di chrome)
+
+run
+python3 main.py
