@@ -6,3 +6,7 @@ nano token.txt (edit token akses, liat google cara buka token akses di chrome)
 
 run
 python3 main.py
+
+Noted:
+main.py = untuk grow dan garden
+main2.py grow only
